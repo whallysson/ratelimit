@@ -1,0 +1,27 @@
+{
+    "name": "codeblog/ratelimit",
+    "description": "Checks the number of requests made in the header!",
+    "keywords": [
+        "CodeBlog",
+        "Router",
+        "Route",
+        "Routes"
+    ],
+    "homepage": "http://www.codeblog.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Whallysson Avelino",
+            "email": "whallyssonallain@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeBlog\\RateLimit\\": "src"
+        }
+    }
+}
