@@ -6,7 +6,7 @@ require __DIR__ . '/../vendor/autoload.php';
 use CodeBlog\RateLimit\RateLimit;
 
 
-$key = 'allain-66';
+$key = 'user-id-999';
 $limit = new RateLimit('cache-folder/', $key, 15, 60);
 
 

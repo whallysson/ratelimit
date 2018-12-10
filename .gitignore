@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/macos,linux,windows,composer,netbeans,phpstorm
 # Edit at https://www.gitignore.io/?templates=macos,linux,windows,composer,netbeans,phpstorm
 
-index.php
+# index.php
 
 ### Composer ###
 composer.phar
